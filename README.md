@@ -11,3 +11,10 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </div>
+
+<br>
+
+![Nikola's github stats](https://github-readme-stats.vercel.app/api?username=ngrdanjski&show_icons=true&theme=gotham) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrdanjski&theme=gotham&layout=compact)](https://github.com/ngrdanjski/ngrdanjski)
+
+<br>
