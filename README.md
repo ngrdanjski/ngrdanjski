@@ -9,6 +9,7 @@ You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
 <div style="display: flex;">
   <img alt="PHP" src="https://img.shields.io/badge/php-4F5B93.svg?&style=for-the-badge&logo=php&logoColor=white"/>
   <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
   <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
   <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
