@@ -1,25 +1,71 @@
-### Hello There 👋
-Im *Nikola* ! :smiley: <br>
-Im **FullStack Web Developer** <br>
-Feel Free For Asking Questions <br>
-You Can **Contact** Me by My **Gmail** Account Below :facepunch: <br>
+<!--
+  GitHub profile README for ngrdanjski.
+  The statistics below reflect the screenshot from 15 October 2026.
+  Refresh the figures when updating this profile.
+-->
 
-**Gmail: ngrdanjski88@gmail.com**
+<div align="center">
 
-<div style="display: flex;">
-  <img alt="PHP" src="https://img.shields.io/badge/php-4F5B93.svg?&style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Symfony" src="https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white"/>
-  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="Vuejs" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>
-  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img alt="Go" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+# `>` HELLO, WORLD_
+
+### Nikola Grdanjski
+
+**Full Stack Software Engineer** · Production systems for industry & commerce
+
+`ZAGREB, HR` · `AVAILABLE FOR CONTRACT`
+
+[Website](https://ngrdanjski.com/) · [GitHub](https://github.com/ngrdanjski) · [LinkedIn](https://www.linkedin.com/in/nikola-grdanjski) · [Email](mailto:ngrdanjski88@gmail.com)
+
 </div>
 
-<br>
+---
 
-![Nikola's github stats](https://github-readme-stats.vercel.app/api?username=ngrdanjski&show_icons=true&theme=gotham) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ngrdanjski&theme=gotham&layout=compact)](https://github.com/ngrdanjski/ngrdanjski)
+### `>` BRIEFING
 
-<br>
+I build robust backends with **PHP/Symfony** and **Go**, and dynamic user interfaces with **Vue.js** and **Angular**. My work includes PIM systems, industrial inquiry tools, B2B and B2C e-commerce platforms, REST APIs, and database design.
+
+### `>` TECH_STACK
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0B5B31?style=flat-square&logo=php&logoColor=C9FFE2" alt="PHP" />
+  <img src="https://img.shields.io/badge/Symfony-0B5B31?style=flat-square&logo=symfony&logoColor=C9FFE2" alt="Symfony" />
+  <img src="https://img.shields.io/badge/WordPress-0B5B31?style=flat-square&logo=wordpress&logoColor=C9FFE2" alt="WordPress" />
+  <img src="https://img.shields.io/badge/JavaScript-0B5B31?style=flat-square&logo=javascript&logoColor=C9FFE2" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Vue.js-0B5B31?style=flat-square&logo=vuedotjs&logoColor=C9FFE2" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/TypeScript-0B5B31?style=flat-square&logo=typescript&logoColor=C9FFE2" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-0B5B31?style=flat-square&logo=angular&logoColor=C9FFE2" alt="Angular" />
+  <img src="https://img.shields.io/badge/Go-0B5B31?style=flat-square&logo=go&logoColor=C9FFE2" alt="Go" />
+</p>
+
+### `>` GITHUB_STATS
+
+<table>
+  <tr>
+    <td align="center"><strong>★ 1</strong><br /><sub>Total stars earned</sub></td>
+    <td align="center"><strong>↻ 417</strong><br /><sub>Commits · last year</sub></td>
+    <td align="center"><strong>⑂ 1</strong><br /><sub>Pull requests</sub></td>
+    <td align="center"><strong>! 11</strong><br /><sub>Issues</sub></td>
+    <td align="center"><strong>▣ 9</strong><br /><sub>Repositories contributed to · last year</sub></td>
+  </tr>
+</table>
+
+### `>` MOST_USED_LANGUAGES
+
+| Language | Share |
+|:--|--:|
+| Vue | 57.50% |
+| SCSS | 24.93% |
+| TypeScript | 11.98% |
+| HTML | 4.19% |
+| JavaScript | 0.76% |
+| CSS | 0.65% |
+
+---
+
+<div align="center">
+
+`$ ./CONTACT` · [ngrdanjski88@gmail.com](mailto:ngrdanjski88@gmail.com)
+
+**Robust systems. Real-world impact.**
+
+</div>
